@@ -1,2 +1,1 @@
-# PracticeGit
-practice many git usages
+## CARDNA PRACTICE README
